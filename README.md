@@ -1,5 +1,7 @@
 # Cloud Insurance Co. - Admin Dashboard
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/enterstudio/cloudco-insurance-dashboard.svg)](https://greenkeeper.io/)
+
 <!-- No tests are set up currently
 | **master** | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot-dashboard.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-bot-dashboard) |
 | ----- | ----- |
